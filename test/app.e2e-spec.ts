@@ -1,3 +1,10 @@
+/**
+ * End-to-end test placeholder for the messages API.
+ *
+ * This file is kept as part of the learning scaffold. In a real feature branch,
+ * the suite would be updated to import the correct application module and test
+ * the validation behavior of the API endpoints.
+ */
 import { Test, TestingModule } from '@nestjs/testing';
 import { INestApplication } from '@nestjs/common';
 import * as request from 'supertest';
